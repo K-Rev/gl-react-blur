@@ -8,7 +8,7 @@
     "prepublish": "npm run compile"
   },
   "dependencies": {
-    "prop-types":"^15.6.0"
+    "prop-types": "^15.6.0"
   },
   "peerDependencies": {
     "gl-react": "~2.2.0"
